@@ -1,0 +1,1 @@
+This is Leila's first Git project with The Odin Project.
